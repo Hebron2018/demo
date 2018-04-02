@@ -5,3 +5,7 @@ Clones a repository into a newly created directory, creates remote-tracking bran
 NOTE: this is a possibly dangerous operation; do not use it unless you understand what it does.
 ###Add###
 No checkout of HEAD is performed after the clone is complete.
+***
+NOTE: this is a possibly dangerous operation; do not use it unless you understand what it does.
+***
+seeming to exist or be happening in fact
