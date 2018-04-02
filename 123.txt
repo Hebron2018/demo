@@ -3,3 +3,5 @@
 Clones a repository into a newly created directory, creates remote-tracking branches for each branch
 ***
 NOTE: this is a possibly dangerous operation; do not use it unless you understand what it does.
+###Add###
+No checkout of HEAD is performed after the clone is complete.
