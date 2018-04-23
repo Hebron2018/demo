@@ -1,1 +1,2 @@
 Clean old text and add first text on ABC1 branch
+This is second line on ABC1 branch
