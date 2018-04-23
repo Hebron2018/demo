@@ -1,1 +1,2 @@
 Gom text from ABC & ABC1 branch
+Gom 123.txt tu 2 branch ABC & DEF branch
