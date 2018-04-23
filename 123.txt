@@ -1,1 +1,2 @@
 Hi, This is 123.txt on ABC branch
+This is second line on ABC branch
