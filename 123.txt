@@ -16,6 +16,10 @@ This line is committed from ABC workplace (four times)
 This line is committed from ABC1 workplace (five times)
 ---------------------------------------------------------------
 This line is committed from ABC workplace (five times)
+---------------------------------------------------------------------
+This line is committed from ABC workplace (six times)
+---------------------------------------------------------------------------
+This line is committed from ABC workplace (seven times)
 --------------------------------------------------------------------
 This line is committed from ABC1 workplace (six times)
 -------------------------------------------------------------------------
