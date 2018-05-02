@@ -2,6 +2,8 @@ This is ABC1 workplaces
 This is ABC1 workplaces 123
 -------
 This line is committed from ABC workplace
+-----------
+This line is committed from ABC1 workplace
 -----------------------
 This line is committed from ABC workplace (two time)
 ---------------------------------
