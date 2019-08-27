@@ -1,19 +1,19 @@
-function int Add(int a, int b)
+function double Add(double a, double b)
 {
 	return a + b;
 }
 
-function int Sub(int a, int b)
+function double Sub(double a, double b)
 {
 	return a - b;
 }
 
-function int Multi(int a, int b)
+function double Multi(double a, double b)
 {
 	return a * b;
 }
 
-function int Div(int a, int b)
+function double Div(double a, double b)
 {
 	return a / b;
 }
